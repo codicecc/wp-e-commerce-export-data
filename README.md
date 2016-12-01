@@ -6,6 +6,6 @@ The script creates a csv file.
 It extracts the order data from wordpress wp-e-commerce plugin.
 
 Tables involved:
-1.	wp_wpsc_checkout_forms
-2.	wp_wpsc_submited_form_data
-3.	wp_wpsc_purchase_logs
+*	wp_wpsc_checkout_forms
+*	wp_wpsc_submited_form_data
+*	wp_wpsc_purchase_logs
